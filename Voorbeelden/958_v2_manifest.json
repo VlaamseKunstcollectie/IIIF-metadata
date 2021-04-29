@@ -81,7 +81,7 @@
         {
           "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/canvas/1.json",
           "@type": "sc:Canvas",
-          "label": 958,
+          "label": "958",
           "height": 3936,
           "width": 2819,
           "images": [
