@@ -1,0 +1,65 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/manifest.json",
+    "label": "De wraak van Hop-Frog",
+    "attribution": "Museum voor Schone Kunsten Gent",
+    "description": "Voor de voorstelling “De wraak van Hop-Frog” baseerde Ensor zich op het gelijknamige verhaal van Edgar Allan Poe. De kunstenaar heeft het moment weergegeven waarop de koning en zijn ministers, verkleed als apen brandend boven een carnavalesk uitgedoste menigte hangen, waar ook Ensor zelf deel van uitmaakt. Intussen wakkert de dwerg Hop-Frog met zijn toorts het vuur aan. De compositie vertoont sterke overeenkomsten met de tekening van Jacques Callot “Eerste intermezzo van 1617” (Berlijn, Kupferstichkabinett). Van de voorstelling maakte Ensor in 1885 een lithografie, in 1896 een schilderij en twee jaar later de ets. De voorstelling in ets staat in spiegelbeeld, in vergelijking met de versie in lithografie.",
+    "metadata": [
+        {
+            "label": "Titel",
+            "value": "De wraak van Hop-Frog"
+        },
+        {
+            "label": "Inventarisnummer",
+            "value": "1998-B-112"
+        },
+        {
+            "label": "Auteursrecht",
+            "value": "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a><br/>Als je ons beeld gebruikt, stellen wij bronvermelding op prijs.<br/>Collectie Museum voor Schone Kunsten Gent.<br/>Foto: LUKAS - ART IN FLANDERS vzw<br/>Fotograaf: opnames camera.<br/>Wij ontvangen graag een exemplaar van de publicatie voor onze bibliotheek."
+        },
+        {
+            "label": "Manifest",
+            "value": "<a href=\"http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/manifest.json\">http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": 958,
+                    "height": 3936,
+                    "width": 2819,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3936,
+                                "width": 2819
+                            },
+                            "on": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/canvas/1.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
