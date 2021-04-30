@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://raw.githubusercontent.com/robwyse/IIIF-metadata/master/Voorbeelden/958_v2_manifest.json",
+  "@id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Voorbeelden/958_v2_manifest.json",
   "label": [
     {"@value": "De wraak van Hop-Frog", "@language": "nl"},
     {"@value": "The Revenge of Hop-Frog", "@language": "en"}
