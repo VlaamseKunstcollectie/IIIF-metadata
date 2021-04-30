@@ -47,7 +47,16 @@
        "profile": "http://iiif.io/api/image/2/level2.json"
      }
   },
-  "attribution": "Als je ons beeld gebruikt, stellen wij bronvermelding op prijs.<br/>Collectie Museum voor Schone Kunsten Gent.<br/>Wij ontvangen graag een exemplaar van de publicatie voor onze bibliotheek.",
+  "attribution": [
+    {
+      "@value": "Als je ons beeld gebruikt, stellen wij bronvermelding op prijs.<br/>Collectie Museum voor Schone Kunsten Gent.<br/>Wij ontvangen graag een exemplaar van de publicatie voor onze bibliotheek.",
+      "@language": "nl"
+    },
+    {
+      "@value": "Collection Museum for Fine Arts Ghent",
+      "@language": "en"
+    }
+  ],
   "license": "https://creativecommons.org/publicdomain/mark/1.0/",
   "logo": "http://arthubensor.vlaamsekunstcollectie.be/assets/msk-2ce5db7b1ad46d3853f150ee4ea3c51c6f9be409678a315c493d3ab58dc969d2.jpg",
   "rendering": {
@@ -93,7 +102,16 @@
               "resource": {
                 "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
-                "attribution": "Foto: LUKAS - ART IN FLANDERS vzw<br/>Fotograaf: opnames camera.",
+                "attribution": [
+                  {
+                    "@value": "Foto: LUKAS - ART IN FLANDERS vzw<br/>Fotograaf: opnames camera.",
+                    "@language": "nl"
+                  },
+                  {
+                    "@value": "Photo: LUKAS - ART IN FLANDERS vzw.",
+                    "@language": "en"
+                  }
+                ],
                 "license": "https://creativecommons.org/publicdomain/zero/1.0/",
                 "format": "image/jpeg",
                 "service": {
