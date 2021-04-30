@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/958/manifest.json",
+  "@id": "https://raw.githubusercontent.com/robwyse/IIIF-metadata/master/Voorbeelden/958_v2_manifest.json",
   "label": [
     {"@value": "De wraak van Hop-Frog", "@language": "nl"},
     {"@value": "The Revenge of Hop-Frog", "@language": "en"}
