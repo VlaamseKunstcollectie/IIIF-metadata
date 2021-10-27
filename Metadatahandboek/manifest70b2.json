@@ -102,8 +102,8 @@
 					"@id": "http://bfd037e3-3e6d-4356-8a6e-da343d21ef8a",
 					"@type": "sc:Canvas",
 					"label": "Self-Portrait (sketch)",
-					"height": "5000",
-					"width": "3223",
+					"height": 5000,
+					"width": 3223,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
