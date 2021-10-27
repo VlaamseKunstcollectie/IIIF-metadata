@@ -87,17 +87,7 @@
 	],
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
 	"attribution": "Museum of Fine Arts Ghent / Museum voor Schone Kunsten Gent",
-	"sequences": [
-		{
-			"@id": "http://c795324c-329d-4f69-be06-e3a8d120d713",
-			"@type": "sc:Sequence",
-			"label": [
-				{
-					"@value": "Normal Sequence",
-					"@language": "en"
-				}
-			],
-			"canvases": [
+	"canvases": [
 				{
 					"@id": "http://11330b7a-efcc-4522-87cf-9afb299cbf8e",
 					"@type": "sc:Canvas",
