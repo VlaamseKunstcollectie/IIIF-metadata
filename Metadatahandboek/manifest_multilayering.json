@@ -39,15 +39,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F18.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F87.tif/full/full/0/default.jpg",
                 "type": "Image",
-                "label": "Normaal licht",
+                "label": "Origineel",
                 "format": "image/png",
                 "height": 6271,
                 "width": 4876,
                 "service": {
                   "profile": "http://iiif.io/api/image/2/level1.json",
-                  "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F18.tif",
+                  "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F87.tif",
                   "@context": "http://iiif.io/api/image/2/context.json"
                 }
               },
