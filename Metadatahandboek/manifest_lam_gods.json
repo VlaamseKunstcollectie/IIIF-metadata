@@ -3,7 +3,7 @@
     "http://iiif.io/api/presentation/3/context.json",
     "http://www.w3.org/ns/anno.jsonld"
   ],
-  "id": "https://alecvandenbroeck.github.io/Altaarretabel-demo/Lam_gods_manifest.json",
+  "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/manifest_lam_gods.json",
   "type": "Manifest",
   "label": {
     "en": [
