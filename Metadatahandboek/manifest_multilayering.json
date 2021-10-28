@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://127.0.0.1:8887/base_manifest.json",
+  "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/manifest_multilayering.json",
   "type": "Manifest",
   "label": {
     "en": [
