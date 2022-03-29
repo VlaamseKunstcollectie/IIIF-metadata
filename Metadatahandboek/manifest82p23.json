@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "\u00b1 1886"
+          "1886"
         ]
       }
     },
@@ -117,7 +117,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
+                "id": "https://images.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 7421,
@@ -125,7 +125,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/3/context.json",
-                    "@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2",
+                    "@id": "https://images.meemoo.be/iiif/dr2p57529r.jp2",
                     "@type": "Service",
                     "profile": "level2"
                   }
@@ -172,7 +172,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
+                "id": "https://images.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 7421,
@@ -180,7 +180,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/3/context.json",
-                    "@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2",
+                    "@id": "https://images.meemoo.be/iiif/p843r2fm4m.jp2",
                     "@type": "Service",
                     "profile": "level2"
                   }
@@ -227,7 +227,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
+                "id": "https://images.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 7421,
@@ -235,7 +235,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/3/context.json",
-                    "@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2",
+                    "@id": "https://images.meemoo.be/iiif/wp9t16kg44.jp2",
                     "@type": "Service",
                     "profile": "level2"
                   }
