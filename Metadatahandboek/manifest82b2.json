@@ -48,12 +48,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
+								"@id": "https://images.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2",
+									"@id": "https://images.meemoo.be/iiif/dr2p57529r.jp2",
 									"profile": "level2"
 								},
 								"height": 7421,
@@ -82,12 +82,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
+								"@id": "https://images.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2",
+									"@id": "https://images.meemoo.be/iiif/p843r2fm4m.jp2",
 									"profile": "level2"
 								},
 								"height": 7421,
@@ -116,12 +116,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
+								"@id": "https://images.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2",
+									"@id": "https://images.meemoo.be/iiif/wp9t16kg44.jp2",
 									"profile": "level2"
 								},
 								"height": 7421,
