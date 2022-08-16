@@ -53,12 +53,12 @@
       "width": 3508,
       "thumbnail": [
 		{
-		  "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif/full/full/0/default.jpg",
+		  "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif/full/full/0/default.jpg",
 		  "type": "Image",
 		  "format": "image/jpeg",
 		  "service": [
 		    {
-		      "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif",
+		      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif",
 		      "type": "ImageService2",
 		      "profile": "level1"
 		    }
@@ -77,14 +77,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2456,
                 "width": 3508,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F59.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -348,14 +348,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F60.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F60.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3508,
                 "width": 2427,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F60.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F60.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -387,14 +387,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F58.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F58.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3507,
                 "width": 880,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F58.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F58.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -426,14 +426,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F62.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F62.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3488,
                 "width": 1783,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F62.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F62.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -465,14 +465,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F68.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F68.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3509,
                 "width": 1478,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F68.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F68.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -504,14 +504,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F69.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F69.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3507,
                 "width": 1461,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F69.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F69.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -543,14 +543,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F63.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F63.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3507,
                 "width": 1673,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F63.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F63.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -582,14 +582,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F64.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F64.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3419,
                 "width": 1339,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F64.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F64.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -621,14 +621,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F65.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F65.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3507,
                 "width": 1711,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F65.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F65.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -660,14 +660,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F70.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F70.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2228,
                 "width": 3508,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F70.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F70.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -699,14 +699,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F66.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F66.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3508,
                 "width": 1775,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F66.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F66.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -738,14 +738,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F61.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F61.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3508,
                 "width": 2427,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F61.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F61.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -777,14 +777,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F67.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F67.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3508,
                 "width": 893,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F67.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F67.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -816,14 +816,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F71.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F71.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3507,
                 "width": 1517,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F71.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F71.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -855,14 +855,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F72.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F72.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3508,
                 "width": 1434,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F72.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F72.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
@@ -894,14 +894,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F57.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F57.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3508,
                 "width": 2456,
                 "service": [
                   {
-                    "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F57.tif",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F57.tif",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
