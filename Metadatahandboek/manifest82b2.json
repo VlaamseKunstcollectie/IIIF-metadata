@@ -48,7 +48,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
+								"@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2/full/max/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -82,7 +82,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
+								"@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2/full/max/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -116,7 +116,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
+								"@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2/full/max/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
