@@ -182,14 +182,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F85.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5000,
                 "width": 3223,
                 "service": [
                   {
-                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066",
+                    "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F85.tif",
                     "@type": "ImageService2",
                     "profile": [
                       "http://iiif.io/api/image/2/level2.json",
