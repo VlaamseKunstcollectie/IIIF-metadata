@@ -1,0 +1,168 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://resourcespace.muzee.be/iiif/2/1582/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[Painted tile, to be looked at from all angles]",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Titel"
+                }
+            ],
+            "value": "[Painted tile, to be looked at from all angles]"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Creator"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardiger"
+                }
+            ],
+            "value": "Servranckx, Victor"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Date created"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardigingsdatum"
+                }
+            ],
+            "value": "1943"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Inventory no."
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Inventarisnummer"
+                }
+            ],
+            "value": "MZ000147"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Photographer"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Fotograaf"
+                }
+            ],
+            "value": "Verhelst, Cedric"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Description"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Beschrijving"
+                }
+            ],
+            "value": "Gedurende de Tweede Wereldoorlog schilderde Victor Servranckx (1897 - 1965) hoofdzakelijk conventionele landschappen. De reeks beschilderde tegeltjes (1943) vormt hier een uitzondering op. De vormentaal van de tegeltjes doet organisch, surrealistisch aan, wat lijkt op zijn stijl van de jaren 1927 - 1940.\nServranckx die tegeltjes vervaardigt, is minder vreemd dan het op het eerste zicht kan doen vermoeden. Als aanhanger van de Gemeenschapskunst en de Zuivere Beelding zette hij zich in om via de architectuur, binnenhuisinrichting en toegepaste kunsten zijn artistieke principes te integreren in de sociale werkelijkheid."
+        },
+        {
+            "label": "IIIF manifest",
+            "value": "<a href=\"https://resourcespace.muzee.be/iiif/2/1582/manifest.json\">https://resourcespace.muzee.be/iiif/2/1582/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "license": "http://rightsstatements.org/vocab/InC/1.0/",
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "Mu.ZEE, Art Museum by the Sea<br/><a href=\"https://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><a href=\"https://rightsstatements.org/vocab/InC/1.0/\"><img src=\"https://rightsstatements.org/files/buttons/InC.dark-white-interior.png\"/></a>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Mu.ZEE would appreciate having three copies sent to Mu.ZEE, Romestraat 11, 8400 Oostende, Belgium. More information: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>."
+        },
+        {
+            "@language": "nl",
+            "@value": "Mu.ZEE, Kunstmuseum aan zee<br/><a href=\"https://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><a href=\"https://rightsstatements.org/vocab/InC/1.0/\"><img src=\"https://rightsstatements.org/files/buttons/InC.dark-white-interior.png\"/></a>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Mu.ZEE dat drie exemplaren worden toegestuurd naar Mu.ZEE, Romestraat 11, 8400 Oostende. Meer info: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>."
+        }
+    ],
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "https://resourcespace.muzee.be/iiif/2/1582/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "https://resourcespace.muzee.be/iiif/2/1582/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": "1582",
+                    "height": 5946,
+                    "width": 6102,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://resourcespace.muzee.be/iiif/2/1582/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://resourcespace.muzee.be/iiif/2/public%2F1582.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://resourcespace.muzee.be/iiif/2/public%2F1582.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 5946,
+                                "width": 6102
+                            },
+                            "on": "https://resourcespace.muzee.be/iiif/2/1582/canvas/1.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://resourcespace.muzee.be/iiif/2/1582/canvas/2.json",
+                    "@type": "sc:Canvas",
+                    "label": "1583",
+                    "height": 5984,
+                    "width": 6090,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://resourcespace.muzee.be/iiif/2/1582/canvas/2.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://resourcespace.muzee.be/iiif/2/public%2F1583.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://resourcespace.muzee.be/iiif/2/public%2F1583.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 5984,
+                                "width": 6090
+                            },
+                            "on": "https://resourcespace.muzee.be/iiif/2/1582/canvas/2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
