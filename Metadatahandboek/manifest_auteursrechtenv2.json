@@ -84,7 +84,7 @@
         },
         {
             "label": "IIIF manifest",
-            "value": "<a href=\"https://resourcespace.muzee.be/iiif/2/1582/manifest.json\">https://resourcespace.muzee.be/iiif/2/1582/manifest.json</a>"
+            "value": "<a href=\"https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/manifest_auteursrechtenv2.json\">https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/manifest_auteursrechtenv2.json</a>"
         }
     ],
     "viewingDirection": "left-to-right",
