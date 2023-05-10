@@ -24,7 +24,16 @@
                     "@value": "Titel"
                 }
             ],
-            "value": "Christus bedaart de storm"
+            "value": 
+            [
+                {
+                    "@language": "en",
+                    "@value": "Christ calms the storm"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Christus bedaart de storm"
+            ]
         },
         {
             "label": [
