@@ -30,6 +30,14 @@
                 {
                     "@language": "nl",
                     "@value": "Titel"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Titre"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Titel"
                 }
             ],
             "value":[
@@ -40,6 +48,14 @@
                 {
                     "@language": "nl",
                     "@value": "Christus bedaart de storm"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Le Christ calme la tempête"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Christus beruhigt den Sturm"
                 }
              ]
         },
@@ -52,6 +68,14 @@
                 {
                     "@language": "nl",
                     "@value": "Vervaardiger"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Créateur"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Hersteller"
                 }
             ],
             "value": "Ensor, James"
@@ -65,6 +89,14 @@
                 {
                     "@language": "nl",
                     "@value": "Vervaardigingsdatum"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Date de fabrication"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Herstellungsdatum"
                 }
             ],
             "value": "1891"
@@ -91,6 +123,14 @@
                 {
                     "@language": "nl",
                     "@value": "Fotograaf"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Photographe"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Fotograf"
                 }
             ],
             "value": "Verburg, Adri"
@@ -104,6 +144,14 @@
                 {
                     "@language": "nl",
                     "@value": "Beschrijving"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Description"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Beschreibung"
                 }
             ],
             "value": [
@@ -114,6 +162,14 @@
                 {
                     "@language": "nl",
                     "@value": "Dit bijbelse thema vormde de aanleiding voor de voorstelling van een hevige storm op zee, waarin de lichteffecten, de kleur, de atmosfeer en de dynamiek de acteurs zijn.  Ensor dacht bij het schilderen misschien terug aan doeken van Turner die hij kende van reproducties of van zijn reis naar Engeland met Guillaume Vogels.  Mogelijk zag hij de spectaculaire weergave van een ontketende natuur ook op werk van John Martin of Franics Danby, twee Britse schilders uit de vroege negentiende eeuw.  Vermoedelijk identificeert Ensor zich hier met Christus, maar door het kleine formaat van de figuren is dat moeilijk uit te maken."
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Ce thème biblique est à l'origine de la présentation d'une violente tempête en mer, dont les effets de lumière, la couleur, l'atmosphère et la dynamique sont les acteurs. En peignant, Ensor a peut-être repensé aux tableaux de Turner qu'il connaissait par des reproductions ou par son voyage en Angleterre avec Guillaume Vogels. Il a peut-être aussi vu la représentation spectaculaire de la nature déchaînée dans les œuvres de John Martin ou de Franics Danby, deux peintres britanniques du début du dix-neuvième siècle. On peut supposer qu'Ensor s'identifie ici au Christ, mais la petite taille des personnages rend la chose difficile à déterminer"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Dieses biblische Thema war der Grund für die Darstellung eines heftigen Sturms auf See, bei dem die Lichteffekte, die Farbe, die Atmosphäre und die Dynamik die Akteure sind. Beim Malen mag Ensor an Gemälde von Turner gedacht haben, die er von Reproduktionen oder von seiner Englandreise mit Guillaume Vogels kannte. Möglicherweise sah er auch die spektakuläre Darstellung der entfesselten Natur in den Werken von John Martin oder Franics Danby, zwei britischen Malern aus dem frühen 19. Vermutlich identifiziert sich Ensor hier mit Christus, aber die geringe Größe der Figuren macht es schwierig, dies zu bestimmen."
                 }
             ]
         },
