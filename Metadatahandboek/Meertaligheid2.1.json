@@ -10,6 +10,14 @@
                 {
                     "@language": "en",
                     "@value": "Christ calms the storm"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Le Christ calme la tempête"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Christus beruhigt den Sturm"
                 }
             ],
     "metadata": [
