@@ -8,6 +8,12 @@
         ],
         "nl": [
             "Hoek van een plafondschildering"
+        ],
+        "fr": [
+            "Coin d'une peinture au plafond"
+        ],
+        "de": [
+            "Ecke eines Deckengemäldes"
         ]
     },
     "metadata": {
@@ -36,6 +42,12 @@
             ],
             "nl": [
                 "Naamsvermelding"
+            ],
+            "fr": [
+                "Attribution"
+            ],
+            "de": [
+                "Zuschreibung"
             ]
         },
         "value": {
@@ -44,7 +56,13 @@
             ],
             "nl": [
                 "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be\">Museum voor Schone Kunsten Gent</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt MSK Gent dat drie exemplaren worden toegestuurd naar MSK Gent, Hofbouwlaan 28, B-9000 Gent. Meer info: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
-            ]
+            ],
+            "fr": [
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be\">Musée des Beaux-Arts Gand</a><br><p>Les fichiers TIFF originaux de cette œuvre, dans la plus haute résolution et avec un code couleur, peuvent être commandés auprès de <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Si cette image est utilisée pour une publication imprimée ou un produit commercial, la Musée des Beaux-arts de Gand demande que trois exemplaires soient envoyés à MSK Gent, Hofbouwlaan 28, B-9000 Gent. Plus d'infos: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
+            ],
+            "de": [
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be\">Museum der Schönen Künste Gent</a><br><p>Die Original-TIFF-Dateien dieser Arbeit, in höchster Auflösung und farbcodiert, können bei <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo) bestellt werden. Wenn dieses Bild für eine gedruckte Veröffentlichung oder ein kommerzielles Produkt verwendet wird, würde sich MSK Gent über die Zusendung von drei Exemplaren an MSK Gent, Hofbouwlaan 28, B-9000 Gent freuen. Mehr Informationen: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
+            ],
         }
     },
     "seeAlso": [
