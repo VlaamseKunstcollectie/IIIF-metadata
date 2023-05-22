@@ -91,6 +91,12 @@
                 ],
                 "nl": [
                     "Hoek van een plafondschildering"
+                ],
+                "fr": [
+                    "Coin d'une peinture au plafond"
+                ],
+                "de": [
+                    "Ecke eines Deckengemäldes"
                 ]
             },
             "metadata": [
@@ -101,6 +107,12 @@
                         ],
                         "nl": [
                             "Titel"
+                        ],
+                        "fr": [
+                            "Titre"
+                        ],
+                        "de": [
+                            "Titel"
                         ]
                     },
                     "value": {
@@ -109,6 +121,12 @@
                         ],
                         "nl": [
                             "Hoek van een plafondschildering"
+                        ],
+                        "fr": [
+                            "Coin d'une peinture au plafond"
+                        ],
+                        "de": [
+                            "Ecke eines Deckengemäldes"
                         ]
                     }
                 },
@@ -119,6 +137,12 @@
                         ],
                         "nl": [
                             "Vervaardiger"
+                        ],
+                        "fr": [
+                            "Créateur"
+                        ],
+                        "de": [
+                            "Hersteller"
                         ]
                     },
                     "value": {
@@ -134,6 +158,12 @@
                         ],
                         "nl": [
                             "Vervaardigingsdatum"
+                        ],
+                        "fr": [
+                            "Date de fabrication"
+                        ],
+                        "de": [
+                            "Herstellungsdatum"
                         ]
                     },
                     "value": {
