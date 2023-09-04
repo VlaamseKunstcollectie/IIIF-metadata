@@ -10,10 +10,7 @@
 		},
 		{
 			"label": "Datum",
-			"value": {
-				"@value": "± 1907-1908 (20ste eeuw)",
-				"@language": ""
-			}
+			"value": "± 1907-1908 (20ste eeuw)"
 		},
 		{
 			"label": "Fotograaf",
