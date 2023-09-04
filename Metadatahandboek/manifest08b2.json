@@ -141,7 +141,7 @@
 								"height": 4972,
 								"width": 6404
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/4/canvas/1"
 						}
 					],
 					"metadata": [
@@ -156,7 +156,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/5/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Bruin de Beer beklaagt zich bij den koning en Tybaert de Kater wordt nu met de boodschap belast",
 					"height": 5004,
@@ -168,18 +168,18 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/m03xs79438.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F5.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/m03xs79438.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F5.tif",
 									"profile": "level2"
 								},
 								"height": 5004,
 								"width": 6388
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/5/canvas/1"
 						}
 					],
 					"metadata": [
