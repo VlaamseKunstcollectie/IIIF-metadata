@@ -1,0 +1,375 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Reinaert de Vos"
+    ]
+  },
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "<a href=\\\"http://creativecommons.org/publicdomain/mark/1.0/\\\"><img src=\\\"https://licensebuttons.net/p/mark/1.0/88x31.png\\\"/></a><p><a href=\\\"https://www.mskgent.be\\\">Museum voor Schone Kunsten Gent</a></p><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\\\"https://artinflanders.be\\\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt MSK Gent dat drie exemplaren worden toegestuurd naar MSK Gent, Hofbouwlaan 28, B-9000 Gent. Meer info: <a href=\\\"mailto:museum.msk@stad.gent\\\">museum.msk@stad.gent</a>.</p>"
+      ]
+    },
+    "label": {
+      "en": [
+        "Auteursrechteninformatie"
+      ]
+    }
+  },
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "items": [
+    {
+      "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/canvas/fe4be60a-b7ba-464f-ad00-adb2a71d475e",
+      "type": "Canvas",
+      "height": 4226,
+      "width": 5000,
+      "label": {
+        "en": [
+          "Hoe Bruin de Beer met de boodschap naar Reinaert gezonden wordt en hoe hij hem aanspreekt"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Hoe Reinaert zich bedenkt en daarna Bruin vriendelijk ontvangt en hem vertelt van den honing"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "en": [
+              "Van de Woestyne, Gustave"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "en": [
+              "1908"
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          ""
+        ]
+      },
+      "requiredStatement": {
+        "label": {
+          "none": [
+            ""
+          ]
+        },
+        "value": {
+          "en": [
+            "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be\">Museum voor Schone Kunsten Gent</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt MSK Gent dat drie exemplaren worden toegestuurd naar MSK Gent, Hofbouwlaan 28, B-9000 Gent. Meer info: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
+          ]
+        }
+      },
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "thumbnail": [
+        {
+          "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 338,
+          "width": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/canvas/fe4be60a-b7ba-464f-ad00-adb2a71d475e/annotation-page/2428734f-1611-4e33-bd77-9033a08e011f",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/annotation/05736d89-74d1-4b07-b21d-0e4c60f3f802",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/canvas/fe4be60a-b7ba-464f-ad00-adb2a71d475e",
+              "body": {
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4226,
+                "width": 5000,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 5000,
+                    "height": 4226,
+                    "sizes": [
+                      {
+                        "width": 78,
+                        "height": 66
+                      },
+                      {
+                        "width": 156,
+                        "height": 132
+                      },
+                      {
+                        "width": 313,
+                        "height": 264
+                      },
+                      {
+                        "width": 625,
+                        "height": 528
+                      },
+                      {
+                        "width": 1250,
+                        "height": 1057
+                      },
+                      {
+                        "width": 2500,
+                        "height": 2113
+                      },
+                      {
+                        "width": 5000,
+                        "height": 4226
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32,
+                          64
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "tif",
+                          "jpg",
+                          "gif",
+                          "png"
+                        ],
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/canvas/829ffbfd-7459-44a9-8562-0dd31268ab7c",
+      "type": "Canvas",
+      "height": 4395,
+      "width": 5000,
+      "label": {
+        "en": [
+          "Hoe Reinaert zich bedenkt en daarna Bruin vriendelijk ontvangt en hem vertelt van den honing"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "en": [
+              "Van de Woestyne, Gustave"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "en": [
+              "1908"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F3.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 351,
+          "width": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/canvas/829ffbfd-7459-44a9-8562-0dd31268ab7c/annotation-page/1308112f-3377-40f3-98f9-5374784d9dee",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/annotation/93b9d84b-b204-4fa0-a444-a9f3d676b673",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5597f9a3-3e5d-44d4-a392-3e55f18d3587/canvas/829ffbfd-7459-44a9-8562-0dd31268ab7c",
+              "body": {
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F3.tif/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4395,
+                "width": 5000,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F3.tif",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 5000,
+                    "height": 4395,
+                    "sizes": [
+                      {
+                        "width": 78,
+                        "height": 69
+                      },
+                      {
+                        "width": 156,
+                        "height": 137
+                      },
+                      {
+                        "width": 313,
+                        "height": 275
+                      },
+                      {
+                        "width": 625,
+                        "height": 549
+                      },
+                      {
+                        "width": 1250,
+                        "height": 1099
+                      },
+                      {
+                        "width": 2500,
+                        "height": 2198
+                      },
+                      {
+                        "width": 5000,
+                        "height": 4395
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32,
+                          64
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "tif",
+                          "jpg",
+                          "gif",
+                          "png"
+                        ],
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F3.tif"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
