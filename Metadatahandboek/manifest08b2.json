@@ -384,7 +384,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/11/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Reinaert keerde zich toen tot Cuwaert en Belijn",
 					"height": 4000,
@@ -407,7 +407,7 @@
 								"height": 4000,
 								"width": 6232
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/11/canvas/1"
 						}
 					],
 					"metadata": [
@@ -422,7 +422,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/12/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Eindelijk begon Belijn te roepen",
 					"height": 4209,
@@ -445,7 +445,7 @@
 								"height": 4209,
 								"width": 6417
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/12/canvas/1"
 						}
 					],
 					"metadata": [
@@ -460,7 +460,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/13/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "De Koning stiet een vervaarlijken kreet van wanhoop en woede",
 					"height": 4987,
@@ -483,7 +483,7 @@
 								"height": 4987,
 								"width": 6446
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/13/canvas/1"
 						}
 					],
 					"metadata": [
