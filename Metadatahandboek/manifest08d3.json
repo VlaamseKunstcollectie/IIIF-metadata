@@ -118,6 +118,13 @@
                 "width": 6319,
                 "type": "Image",
                 "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif/full/full/0/default.jpg"
+                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
               }
             }
           ],
