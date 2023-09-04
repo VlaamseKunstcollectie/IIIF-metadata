@@ -114,8 +114,6 @@
               "id": "http://03db5737-bc8a-48f6-8f50-b503a27f1cec",
               "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/2/canvas/1",
               "body": {
-                "height": 4834,
-                "width": 6319,
                 "type": "Image",
                 "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif/full/full/0/default.jpg"
                 "service": [
@@ -124,7 +122,9 @@
                                         "@type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level1.json"
                                     }
-                                ]
+                                ],
+                "height": 4834,
+                "width": 6319
               }
             }
           ],
