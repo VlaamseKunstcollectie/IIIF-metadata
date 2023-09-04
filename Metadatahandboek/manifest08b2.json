@@ -54,12 +54,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/rr1pg38d4n.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/rr1pg38d4n.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F2.tif",
 									"profile": "level2"
 								},
 								"height": 4834,
