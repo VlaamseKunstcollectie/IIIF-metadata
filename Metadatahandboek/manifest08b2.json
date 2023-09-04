@@ -80,7 +80,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/3/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Reinaert brengt Bruin, waar honig vinden moest, maar heel iets anders krijgt",
 					"height": 4834,
@@ -92,18 +92,18 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/n00zp5mn3h.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F3.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/n00zp5mn3h.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F3.tif",
 									"profile": "level2"
 								},
 								"height": 4896,
 								"width": 6128
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/3/canvas/1"
 						}
 					],
 					"metadata": [
