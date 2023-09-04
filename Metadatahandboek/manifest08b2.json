@@ -270,7 +270,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/8/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Toen kreeg hij smaak in het bloed",
 					"height": 4051,
@@ -282,18 +282,18 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/bg2h720m05.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F8.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/bg2h720m05.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F8.tif",
 									"profile": "level2"
 								},
 								"height": 4753,
 								"width": 6463
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/8/canvas/1"
 						}
 					],
 					"metadata": [
