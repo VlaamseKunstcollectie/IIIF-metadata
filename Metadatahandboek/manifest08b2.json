@@ -308,7 +308,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/9/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Reinaerts vader verhing zich aan eenen boom",
 					"height": 7369,
@@ -320,18 +320,18 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/g73709nc11.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F9.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/g73709nc11.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F9.tif",
 									"profile": "level2"
 								},
 								"height": 7369,
 								"width": 3764
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/9/canvas/1"
 						}
 					],
 					"metadata": [
