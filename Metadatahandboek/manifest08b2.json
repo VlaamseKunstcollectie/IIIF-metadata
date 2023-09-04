@@ -42,7 +42,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/2/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Bruin de Beer gaat Reinaert dagvaarden en wordt heel vriendelijk onthaald",
 					"height": 4834,
@@ -65,7 +65,7 @@
 								"height": 4834,
 								"width": 6319
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/2/canvas/1"
 						}
 					],
 					"metadata": [
