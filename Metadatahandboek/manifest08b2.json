@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://f087d1ab-312a-48aa-919c-dfba1a47d499",
+	"@id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/manifest08b2.json",
 	"@type": "sc:Manifest",
 	"label": "Reinaert de Vos voor de vierschaar van Koning Nobel den leeuw. ",
 	"metadata": [
