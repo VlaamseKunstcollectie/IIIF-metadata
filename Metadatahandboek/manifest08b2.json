@@ -346,7 +346,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/10/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Op den stond deed de Koning Bruin en Isegrim vangen en binden",
 					"height": 7476,
@@ -358,18 +358,18 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/057cr7ct31.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F10.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/057cr7ct31.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F10.tif",
 									"profile": "level2"
 								},
 								"height": 7476,
 								"width": 5212
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/10/canvas/1"
 						}
 					],
 					"metadata": [
