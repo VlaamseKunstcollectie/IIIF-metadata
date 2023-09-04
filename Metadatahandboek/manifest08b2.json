@@ -6,10 +6,7 @@
 	"metadata": [
 		{
 			"label": "Kunstenaar",
-			"value": {
-				"@value": "Gustave Van de Woestyne",
-				"@language": ""
-			}
+			"value": "Gustave Van de Woestyne"
 		},
 		{
 			"label": "Datum",
