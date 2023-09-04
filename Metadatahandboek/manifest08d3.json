@@ -102,7 +102,7 @@
       "height": 4834,
       "width": 6319,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/2/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -112,7 +112,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://03db5737-bc8a-48f6-8f50-b503a27f1cec",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/2/canvas/1",
               "body": {
                 "height": 4834,
                 "width": 6319,
@@ -169,7 +169,7 @@
       "height": 4834,
       "width": 6128,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/3/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -179,7 +179,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://e9e22ae2-0bf4-4ea9-823f-0d6fd4323851",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/3/canvas/1",
               "body": {
                 "height": 4896,
                 "width": 6128,
@@ -236,7 +236,7 @@
       "height": 4972,
       "width": 6404,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/4/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -246,7 +246,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://f8ac8f17-6393-49eb-a888-ff595da84a55",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/4/canvas/1",
               "body": {
                 "height": 4972,
                 "width": 6404,
@@ -303,7 +303,7 @@
       "height": 5004,
       "width": 6388,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/5/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -313,7 +313,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://4ecaa5f4-4907-43a3-aa49-d8497d95dddd",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/5/canvas/1",
               "body": {
                 "height": 5004,
                 "width": 6388,
@@ -370,7 +370,7 @@
       "height": 5088,
       "width": 5680,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -380,7 +380,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://ecc1e156-0ca0-4ebf-ae45-ba82d4505a02",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
               "body": {
                 "height": 5088,
                 "width": 5680,
@@ -437,7 +437,7 @@
       "height": 4930,
       "width": 5975,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/6.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/7/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -447,7 +447,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://6f52e2bf-c6ab-40e6-8384-cd59fd58f576",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/6.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/7/canvas/1",
               "body": {
                 "height": 4930,
                 "width": 5975,
@@ -504,7 +504,7 @@
       "height": 4753,
       "width": 6463,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/8/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -514,7 +514,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://8f03e502-2552-4d9a-8ee6-f15472594cc9",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/8/canvas/1",
               "body": {
                 "height": 4753,
                 "width": 6463,
@@ -571,7 +571,7 @@
       "height": 7369,
       "width": 3764,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/9/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -581,7 +581,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://0b72aa21-867d-4968-8c5d-ac638728dae4",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/9/canvas/1",
               "body": {
                 "height": 7369,
                 "width": 3764,
@@ -638,7 +638,7 @@
       "height": 7476,
       "width": 5212,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/10/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -648,7 +648,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://7b8763ac-213b-4532-aaac-b3bf5ee009b9",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/10/canvas/1",
               "body": {
                 "height": 7476,
                 "width": 5212,
@@ -705,7 +705,7 @@
       "height": 4000,
       "width": 6232,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/11/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -715,7 +715,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://2fb8fa1a-d0e1-4db2-8d18-489eb3928c17",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/11/canvas/1",
               "body": {
                 "height": 4000,
                 "width": 6232,
@@ -772,7 +772,7 @@
       "height": 4209,
       "width": 6417,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/12/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -782,7 +782,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://250fd1df-ccb9-4ca2-a2bc-3c4ee6dd6697",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json#xywh=0,0,6417,4209",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/12/canvas/1",
               "body": {
                 "height": 4209,
                 "width": 6417,
@@ -839,7 +839,7 @@
       "height": 4987,
       "width": 6446,
       "type": "Canvas",
-      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json",
+      "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/13/canvas/1",
       "items": [
         {
           "type": "AnnotationPage",
@@ -849,7 +849,7 @@
               "motivation": "painting",
               "type": "Annotation",
               "id": "http://83498b21-059b-4768-b024-d44119eb661f",
-              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json#",
+              "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/13/canvas/1",
               "body": {
                 "height": 4987,
                 "width": 6446,
