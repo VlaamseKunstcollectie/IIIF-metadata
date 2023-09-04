@@ -194,7 +194,7 @@
 					]
 				},
 				{
-					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json",
+					"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/6/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "Reinaert wordt nog beschuldigd door Canteclaer",
 					"height": 5088,
@@ -206,18 +206,18 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://images-tst.meemoo.be/iiif/vh5cc2kn9c.jp2/full/full/0/default.jpg",
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F6.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://images-tst.meemoo.be/iiif/vh5cc2kn9c.jp2",
+									"@context": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F6.tif",
 									"profile": "level2"
 								},
 								"height": 5088,
 								"width": 5680
 							},
-							"on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json"
+							"on": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/6/canvas/1"
 						}
 					],
 					"metadata": [
