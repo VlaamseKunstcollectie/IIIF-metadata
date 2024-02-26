@@ -1,9 +1,9 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://mikeapp.github.io/manifest-fixtures/collection/test.json",
+  "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/Test_Bruikleenkaart.json",
   "type": "Collection",
-  "label": { "en": [ "Map and Timeline Collection" ] },
-  "summary": { "en": [ "Short summary of the Collection" ] },
+  "label": { "nl": [ "Bruikleenkaart" ] },
+  "summary": { "nl": [ "Dit is een testcollectie om een bruikleenkaart weer te geven." ] },
   "requiredStatement": {
     "label": { "en": [ "Attribution" ] },
     "value": { "en": [ "Provided by Example Organization" ] }
