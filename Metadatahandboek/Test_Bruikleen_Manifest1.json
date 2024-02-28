@@ -14,7 +14,7 @@
             "@value": "Zittend naakt"
         }
     ],
-    "navDate": "2022-09_01T00:00:00Z",
+    "navDate": "2022-09-01T00:00:00Z",
     "navPlace": {
     "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
     "type": "FeatureCollection",
