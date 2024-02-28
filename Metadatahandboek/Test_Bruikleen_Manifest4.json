@@ -1,0 +1,158 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif.kmska.be/iiif/2/9720/manifest.json",
+    "@type": "sc:Manifest",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "Peasant Woman Digging Potatoes"
+        },
+        {
+            "@language": "nl",
+            "@value": "Aardappelrooister"
+        }
+    ],
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Titel"
+                }
+            ],
+            "value": [
+                {
+                    "@language": "en",
+                    "@value": "Peasant Woman Digging Potatoes"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Aardappelrooister"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Creator"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardiger"
+                }
+            ],
+            "value": "Schilder: Vincent van Gogh"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Date created"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardigingsdatum"
+                }
+            ],
+            "value": "1885"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Inventory no."
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Inventarisnummer"
+                }
+            ],
+            "value": "2889"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Photographer"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Fotograaf"
+                }
+            ],
+            "value": "Rik Klein Gotink"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Description"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Beschrijving"
+                }
+            ],
+            "value": "1885 is de kunstgeschiedenis ingegaan als het jaar waarin Van Gogh veelvuldig boeren en boerinnen tekende en schilderde. Zo staat De aardappeleters geboekstaafd als zijn vroegste meesterwerk. Het was zijn eerste genrestuk met een uitgewerkte compositie van meerdere figuren. In een brief aan zijn broer Theo verklaarde Vincent wat hij met dit schilderij wilde bereiken: ‘(…) dat men de gedachte krijgt dat die luitjes die bij hun lampje hun aardappels eten, met die handen die zij in de schotel steken zelf de aarde hebben omgespit en (…) dat zij hun eten zo eerlijk verdiend hebben’.\nToen Van Gogh midden juli 1885 een aantal grote ‘schilderijen met klompen’ – zo noemde hijzelf het genre – klaar had, schreef hij ‘voorlopig slechts kleine verder te maken’. Aardappelrooister is daar een goed voorbeeld van. Van Gogh wilde zich meer oefenen in het modelleren van figuren en hen volumineuzer en levendiger in de verf zetten. Dat deed hij naar aanleiding van de kritiek op zijn nogal stijve en platte figuren in De aardappeleters. ‘Waarom (…) zo oppervlakkig? Waarom heb je de bewegingen niet bestudeerd?’, vroeg zijn vriend en collega-schilder Anthon Gerard Alexander van Rappard zich af.\nDe forse Aardappelrooister staat voorovergebogen op een veld, met de blik naar beneden. Ze staat standvastig met de voeten op de grond, op reusachtige klompen, terwijl ze met haar stevige knuisten een aardappelriek in de grond steekt. De bezige rooister is één geworden met de zware, maar levensnoodzakelijke fysieke bewegingen die zij dagelijks verricht op de boerenbuiten. Daarom is zowel de figuur als het landschap in hetzelfde sombere, aardse coloriet weergegeven. Van Goghs hoekige, schetsmatige en disproportionele manier van schilderen resoneert met de onverbloemde weergave van de zwoegende en ruwe landbouwers. \nTijdens zijn verblijf in het Hollandse Nuenen (1883-1885) bezocht Van Gogh meermaals boerenhuisjes om studies naar het leven te maken. Hij getuigde bij zijn broer over de moeilijkheden die hij ondervond om zijn waarachtige impressies van het dagelijkse leven in het atelier te vertalen in volwaardige tableaus. Jean-François Millet beschouwde hij als de ‘eeuwige meester’ van dit boerengenre. Van Gogh las bijvoorbeeld het boek van Alfred Sensier, La vie et l’oeuvre de J.F. Millet. Daarin citeert Sensier een bekende passage van de 17de-eeuwse schrijver Jean de la Bruyère, die mannen en vrouwen op het platteland vergeleek met ‘een soort van wilde dieren’ die met hun handen naarstig door de grond ploegen: ‘Wanneer ze rechtkomen, tonen ze hun menselijk gezicht, en zijn het daadwerkelijk mensen. ’s Nachts trekken ze zich terug in hun hol, waar ze leven van zwart brood, water en wortelen.’ \nDeze Aardappelrooister was volgens Walther Van Beselaere, in 1958 hoofdconservator van het Koninklijk Museum voor Schone Kunsten Antwerpen, ‘het enige, uitmuntend werkje uit Vincents Hollandse, donkere tijd, dat in Vlaams bezit was.’ Het museum kon het werk aankopen omdat het voor de eerder lage prijs van 300.000 Belgische frank werd geveild.\nIn september 1997 werd het werk door drie dieven uit het museum ontvreemd, in het holst van de nacht. Behalve met de Aardappelrooister gingen ze ook aan de haal met een werk van de Franse schilder Adolphe Monticelli, die met zijn nerveuze borsteltoets en dikke verflagen een belangrijke inspiratiebron was voor Van Gogh. Twee weken later werden twee van de drie inbrekers ingerekend bij een door speurders opgezette pseudokoop. De schilderijen werden teruggevonden in een bestelwagen en aan het museum terugbezorgd."
+        },
+        {
+            "label": "IIIF manifest",
+            "value": "<a href=\"https://iiif.kmska.be/iiif/2/9720/manifest.json\">https://iiif.kmska.be/iiif/2/9720/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/en\">Royal Museum of Fine Arts Antwerp - Flemish Community</a><br>The jpg files of public domain artworks are downloadable in high resolution through the KMSKA website. Requesting images can be done through the contact form at <a href=\"https://kmska.be/en/contact\">kmska.be/en/contact</a>.</p>"
+        },
+        {
+            "@language": "nl",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/nl\">Koninklijk Museum voor Schone Kunsten Antwerpen - Vlaamse Gemeenschap</a><br>De jpg-bestanden van kunstwerken in het publieke domein zijn downloadbaar in hoge resolutie via de website van KMSKA. Beelden aanvragen kan via het contactformulier op <a href=\"https://kmska.be/nl/contact\">kmska.be/nl/contact</a>.</p>"
+        }
+    ],
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "https://iiif.kmska.be/iiif/2/9720/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "https://iiif.kmska.be/iiif/2/9720/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": "9720",
+                    "height": 6988,
+                    "width": 8928,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://iiif.kmska.be/iiif/2/9720/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.kmska.be/c/iiif/2/public@9720.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.kmska.be/c/iiif/2/public@9720.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 6988,
+                                "width": 8928
+                            },
+                            "on": "https://iiif.kmska.be/iiif/2/9720/canvas/1.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
