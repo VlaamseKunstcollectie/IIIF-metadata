@@ -23,37 +23,8 @@
       "type": "Manifest"
     },
     {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/15821166.json",
-      "type": "Manifest"
-    },
-    {
-      "id":"https://mikeapp.github.io/manifest-fixtures/manifest/10538410.json",
-      "type": "Manifest"
-    },
-    {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/15493197.json",
-      "type": "Manifest"
-    },
-    {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/2056645.json",
-      "type": "Manifest"
-    },
-    {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/2006140.json",
-      "type": "Manifest"
-    },
-    {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/2056646.json",
-      "type": "Manifest"
-    },
-    {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/15824447.json",
-      "type": "Manifest"
-    },
-    {
-      "id": "https://collections.library.yale.edu/manifests/17154400",
+      "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/Test_Bruikleen_Manifest4.json",
       "type": "Manifest"
     }
-
   ]
 }
