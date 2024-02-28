@@ -1,0 +1,158 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif.kmska.be/iiif/2/26862/manifest.json",
+    "@type": "sc:Manifest",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "Seated Nude"
+        },
+        {
+            "@language": "nl",
+            "@value": "Zittend naakt"
+        }
+    ],
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Titel"
+                }
+            ],
+            "value": [
+                {
+                    "@language": "en",
+                    "@value": "Seated Nude"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Zittend naakt"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Creator"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardiger"
+                }
+            ],
+            "value": "Schilder: Amedeo Modigliani"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Date created"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardigingsdatum"
+                }
+            ],
+            "value": "1917"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Inventory no."
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Inventarisnummer"
+                }
+            ],
+            "value": "2060"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Photographer"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Fotograaf"
+                }
+            ],
+            "value": "Rik Klein Gotink"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Description"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Beschrijving"
+                }
+            ],
+            "value": "In de periode 1916-1919 maakte Modigliani een reeks karakteristieke naaktportretten in opdracht van zijn goede vriend, mecenas én handelaar Leopold Zborowski. Hij schilderde zowel professionele modellen als prostituees die vol in de ogen van hun wellustige maker-toeschouwer kijken. Vanaf 1917 dook ook zijn muze, Jeanne Hébuterne, veelvuldig op als model. Modigliani’s portretten tonen liggende dames in expliciet erotische poses of zittende, iets meer timide en bedekte vrouwen, zoals Zittend naakt. Deze dame maakt haar toilet, zoals de handdoek en de teil suggereren. Haar warme, (oranje)roze lichaam vormt het enige lichtende onderwerp tegen een achtergrond van donkere, okerkleurige vlakken. \n \nHet talent van Modigliani schuilt in zijn kunde om de essentie van de geportretteerden te vatten in een persoonlijke en altijd herkenbare vormentaal. Zijn iconische schilderijen zijn in de eerste plaats ‘een Modigliani’, en pas daarna een portret of een naakt. Zijn werk wordt gekenmerkt door uitgelengde en vereenvoudigde vormen: een lange hals als een zuil, een ovaal hoofd, een lange neus, een kleine mond met dichtgeknepen lippen en een lege blik in twee amandelvormige ogen die het mysterieuze karakter vergroten. In dit stilistische opzicht is Zittend naakt een iets meer gematigd schilderij van zijn hand, een minder lange hals, minder ovaal hoofd enz. Toen de Belgische overheid het schilderij in 1926 aankocht, berichtte het prominente moderne tijdschrift Sélection kritisch: ‘Niet bepaald een van de meest geslaagde werken van Modigliani (…) maar in ieder geval altijd beter dan helemaal geen Modigliani.’ \n \nModigliani’s figuren hebben een soort vormelijke, curvilineaire elegantie die herinnert aan de naakten van de Italiaanse renaissance. Zijn experimenten met sculptuur leidden ertoe dat ook de geschilderde portretten – net als in het werk van Henri Matisse – een zekere monumentaliteit aan de dag leggen. ‘Afrikaanse kunst achtervolgde hem, terwijl Picasso’s kunst hem kwelde (…) Zijn nieuwsgierigheid focuste op de vormen van oude Griekse en Khmer sculpturen, bekend bij beeldhouwers en schilders,’ schreef de galerist Adolphe Basler, die Modigliani persoonlijk kende. \n \nDe schilderkunst van Modigliani houdt het midden tussen traditie en moderniteit. Hoewel het kubisme in het contemporaine Parijs ook voor hem incontournable was, negeerde hij de klassieke noties van schoonheid nooit helemaal. In Parijs absorbeerde hij ook specifieke kenmerken van kunstenaars uit het fin de siècle. Zo vertonen zijn schilderijen verwantschappen met de uitgevlakte, grafische stijl van Henri de Toulouse-Lautrec, de etherische figuraties en expressieve toets van Edvard Munch en de synthese van kleur en geometrische vormen van Paul Cézanne en Paul Gauguin. Allen waren populair bij de jonge kunstenaarsgemeenschappen in het Parijse Montmartre en Montparnasse, waar Modigliani woonde en werkte. \n \nSamen met Vincent van Gogh is Modigliani waarschijnlijk de meest gemythologiseerde moderne kunstenaar. Modigliani’s eeuwige naakt, de seksualiteit en het bijbehorende aura van Don Juan zijn – meer nog dan zijn vroegtijdige overlijden en drank- en drugsproblemen – de meest tot de verbeelding sprekende ingrediënten van een levensverhaal dat legendarische proporties heeft aangenomen en dat al snel na zijn dood aanleiding heeft gegeven tot vervalsingen."
+        },
+        {
+            "label": "IIIF manifest",
+            "value": "<a href=\"https://iiif.kmska.be/iiif/2/26862/manifest.json\">https://iiif.kmska.be/iiif/2/26862/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/en\">Royal Museum of Fine Arts Antwerp - Flemish Community</a><br>The jpg files of public domain artworks are downloadable in high resolution through the KMSKA website. Requesting images can be done through the contact form at <a href=\"https://kmska.be/en/contact\">kmska.be/en/contact</a>.</p>"
+        },
+        {
+            "@language": "nl",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/nl\">Koninklijk Museum voor Schone Kunsten Antwerpen - Vlaamse Gemeenschap</a><br>De jpg-bestanden van kunstwerken in het publieke domein zijn downloadbaar in hoge resolutie via de website van KMSKA. Beelden aanvragen kan via het contactformulier op <a href=\"https://kmska.be/nl/contact\">kmska.be/nl/contact</a>.</p>"
+        }
+    ],
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "https://iiif.kmska.be/iiif/2/26862/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "https://iiif.kmska.be/iiif/2/26862/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": "26862",
+                    "height": 7892,
+                    "width": 4880,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://iiif.kmska.be/iiif/2/26862/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.kmska.be/c/iiif/2/public@26862.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.kmska.be/c/iiif/2/public@26862.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 7892,
+                                "width": 4880
+                            },
+                            "on": "https://iiif.kmska.be/iiif/2/26862/canvas/1.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
