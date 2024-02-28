@@ -1,5 +1,7 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/2/context.json"],
     "@id": "https://iiif.kmska.be/iiif/2/26862/manifest.json",
     "@type": "sc:Manifest",
     "label": [
@@ -12,6 +14,30 @@
             "@value": "Zittend naakt"
         }
     ],
+    "navPlace": {
+    "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "nl": [
+              "Zittend naakt"
+            ]
+          }
+        },
+        "geometry": {
+        "coordinates": [
+          16.368016999997394,
+          48.204517699027775
+        ],
+        "type": "Point"
+      }
+      }
+    ]
+  },
     "metadata": [
         {
             "label": [
