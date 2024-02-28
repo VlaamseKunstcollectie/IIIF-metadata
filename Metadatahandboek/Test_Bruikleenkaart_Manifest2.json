@@ -1,5 +1,7 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/2/context.json"],
     "@id": "https://iiif.kmska.be/iiif/2/9370/manifest.json",
     "@type": "sc:Manifest",
     "label": [
@@ -12,6 +14,31 @@
             "@value": "De ziekenverpleegster"
         }
     ],
+    "navDate": "2021-10-19T00:00:00Z",
+    "navPlace": {
+    "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "nl": [
+              "Zittend naakt"
+            ]
+          }
+        },
+        "geometry": {
+        "coordinates": [
+          11.563516162907376,
+          48.147641913404584
+        ],
+        "type": "Point"
+      }
+      }
+    ]
+  },
     "metadata": [
         {
             "label": [
