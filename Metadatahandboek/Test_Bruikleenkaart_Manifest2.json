@@ -1,0 +1,145 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif.kmska.be/iiif/2/9370/manifest.json",
+    "@type": "sc:Manifest",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "The Little Nurse"
+        },
+        {
+            "@language": "nl",
+            "@value": "De ziekenverpleegster"
+        }
+    ],
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Titel"
+                }
+            ],
+            "value": [
+                {
+                    "@language": "en",
+                    "@value": "The Little Nurse"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "De ziekenverpleegster"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Creator"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardiger"
+                }
+            ],
+            "value": "Schilder: Jacob Vrel"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Inventory no."
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Inventarisnummer"
+                }
+            ],
+            "value": "790"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Photographer"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Fotograaf"
+                }
+            ],
+            "value": "Rik Klein Gotink"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Description"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Beschrijving"
+                }
+            ],
+            "value": "Advies omgevingsfactoren:\nTentoonstellingsruimte Lux: max.150 \nUV waarde: max 10µw/lumen\nRH: 52% met een maximaal toegestane afwijking van 5% binnen de 24 uur\nTemp: 21°C (winter) - 22°C (zomer) met maximaal toegestane afwijking van 2°C binnen de 24 uur\n\nAdvies voor presentatie:\nBeveiliging aanbrengen\nAdvies voor verpakking:\nKist;　lint; polyethyleen folie gesealed met tape\nBijkomend verpakkingsmateriaal mag de verflaag niet raken\nInpakken: dag naar beneden - liggend Glas NIET afplakken\nManipulatie: Handschoenen"
+        },
+        {
+            "label": "IIIF manifest",
+            "value": "<a href=\"https://iiif.kmska.be/iiif/2/9370/manifest.json\">https://iiif.kmska.be/iiif/2/9370/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/en\">Royal Museum of Fine Arts Antwerp - Flemish Community</a><br>The jpg files of public domain artworks are downloadable in high resolution through the KMSKA website. Requesting images can be done through the contact form at <a href=\"https://kmska.be/en/contact\">kmska.be/en/contact</a>.</p>"
+        },
+        {
+            "@language": "nl",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/nl\">Koninklijk Museum voor Schone Kunsten Antwerpen - Vlaamse Gemeenschap</a><br>De jpg-bestanden van kunstwerken in het publieke domein zijn downloadbaar in hoge resolutie via de website van KMSKA. Beelden aanvragen kan via het contactformulier op <a href=\"https://kmska.be/nl/contact\">kmska.be/nl/contact</a>.</p>"
+        }
+    ],
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "https://iiif.kmska.be/iiif/2/9370/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "https://iiif.kmska.be/iiif/2/9370/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": "9370",
+                    "height": 7277,
+                    "width": 5686,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://iiif.kmska.be/iiif/2/9370/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.kmska.be/c/iiif/2/public@9370.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.kmska.be/c/iiif/2/public@9370.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 7277,
+                                "width": 5686
+                            },
+                            "on": "https://iiif.kmska.be/iiif/2/9370/canvas/1.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
