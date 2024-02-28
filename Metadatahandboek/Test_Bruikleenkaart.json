@@ -11,7 +11,7 @@
 
   "items": [
     {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/1012.json",
+      "id": "https://raw.githubusercontent.com/VlaamseKunstcollectie/IIIF-metadata/master/Metadatahandboek/Test_Bruikleen_Manifest1.json",
       "type": "Manifest"
     },
     {
