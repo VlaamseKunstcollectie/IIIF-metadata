@@ -16,11 +16,11 @@
     ],
     "navDate": "2021-10-19T00:00:00Z",
     "navPlace": {
-    "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+    "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/2",
     "type": "FeatureCollection",
     "features": [
       {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/2",
         "type": "Feature",
         "properties": {
           "label": {
