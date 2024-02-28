@@ -1,0 +1,158 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif.kmska.be/iiif/2/6/manifest.json",
+    "@type": "sc:Manifest",
+    "label": [
+        {
+            "@language": "en",
+            "@value": "Bernardo Bembo, Statesman and Ambassador of Venice"
+        },
+        {
+            "@language": "nl",
+            "@value": "Bernardo Bembo, staatsman en ambassadeur van Venetië"
+        }
+    ],
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Title"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Titel"
+                }
+            ],
+            "value": [
+                {
+                    "@language": "en",
+                    "@value": "Bernardo Bembo, Statesman and Ambassador of Venice"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Bernardo Bembo, staatsman en ambassadeur van Venetië"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Creator"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardiger"
+                }
+            ],
+            "value": "Schilder: Hans Memling"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Date created"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Vervaardigingsdatum"
+                }
+            ],
+            "value": "1474"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Inventory no."
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Inventarisnummer"
+                }
+            ],
+            "value": "5"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Photographer"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Fotograaf"
+                }
+            ],
+            "value": "Dominique Provost"
+        },
+        {
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "Description"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Beschrijving"
+                }
+            ],
+            "value": "Een man met donkere haren en zwarte kledij kijkt de toeschouwer aan. Met zijn linkerhand toont hij een Romeinse munt met daarop een afbeelding van keizer Nero. Op de achtergrond zien we een uitgestrekt landschap. Een ruiter houdt er halt bij water waarop enkele zwanen dobberen. Wie het schilderij van dichtbij bekijkt ziet enkele minutieuze details, zoals de stoppelbaard van de man, de zwerm vogels rechts en de ooievaar links.\nDit portret stond lange tijd bekend als een werk van de Siciliaanse schilder Antonello da Messina, maar de huidige consensus is dat Hans Memling de maker is. Memling, afkomstig uit het Duitse Seligenstadt, werkte van 1465 tot aan zijn dood in 1494 in Brugge, toentertijd een grote handelsstad waar een internationaal publiek leefde. Memling was een populaire portrettist bij deze internationale handelselite. Daarnaast kreeg hij voornamelijk opdrachten van religieuze instellingen.\nEr is al heel wat inkt gevloeid over de identificatie van het portret. Diverse hypothesen passeerden de revue. In de 19de eeuw ging men ervan uit dat de munt de belangrijkste aanwijzing was. Die zou suggereren dat de geportretteerde man een medailleur was, iemand die penningen maakte. Bovendien gaven het uiterlijk en de kledij aan dat hij van zuiderse, waarschijnlijk Italiaanse komaf was. Op grond van deze redenering werden Nicolo di Forzore Spinelli en Giovanni de Candida voorgesteld als kandidaten, twee Italiaanse medailleurs. \nAan het begin van de 20ste eeuw concludeerde men dat de man eerder een humanist moest zijn die antieke munten verzamelde. Verschillende aanwijzingen wijzen meer specifiek in de richting van Bernardo Bembo (1433-1519), een Venetiaanse humanist en staatsman. Bembo had een grote verzameling munten en kwam uit Italië, wat aansluit bij de kledij en het attribuut van de geportretteerde. De palmboom rechts en het laurierblad onderaan refereren waarschijnlijk aan Bembo’s embleem, dat bestond uit een palm- en een lauriertak. Zijn levensloop reikt een laatste argument aan. Van 1471 tot 1474 was Bembo ambassadeur voor Venetië aan het hof van de Bourgondische hertog Karel de Stoute, die vaak op veldtocht was en soms in Brugge verbleef. Het is mogelijk dat Bembo Memling in deze periode heeft ontmoet. Bembo was toen achter in de dertig, wat overeenkomt met de leeftijd van de man van het portret.\nHet schilderij was vooruitstrevend. Memling beeldde als een van de eerste portretkunstenaars zijn sujet af in de openlucht en met een landschap op de achtergrond. De meeste kunstenaars kozen voor een effen achtergrond of een interieur, al dan niet met een raam. Memlings innovatieve formule werd snel gretig gekopieerd door tijdgenoten, zowel in de Nederlanden als in Italië, waar Bembo zijn portret bij zijn terugkeer van het Bourgondische hof mee naartoe nam. Een bekend voorbeeld is Portret van een jongeman met een medaille van Cosimo de’ Medici van Sandro Botticelli. Dat toont een man voor een landschap die trots een medaille vasthoudt. \nBinnen het oeuvre van Memling zelf is het portret atypisch, omdat de man de toeschouwer aankijkt. In de meeste van zijn portretten staren de geportretteerden voor zich uit in de verte."
+        },
+        {
+            "label": "IIIF manifest",
+            "value": "<a href=\"https://iiif.kmska.be/iiif/2/6/manifest.json\">https://iiif.kmska.be/iiif/2/6/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": [
+        {
+            "@language": "en",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/en\">Royal Museum of Fine Arts Antwerp - Flemish Community</a><br>The jpg files of public domain artworks are downloadable in high resolution through the KMSKA website. Requesting images can be done through the contact form at <a href=\"https://kmska.be/en/contact\">kmska.be/en/contact</a>.</p>"
+        },
+        {
+            "@language": "nl",
+            "@value": "<p><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\"><img src=\"https://licensebuttons.net/p/zero/1.0/88x31.png\"/></a></p><a href=\"https://kmska.be/nl\">Koninklijk Museum voor Schone Kunsten Antwerpen - Vlaamse Gemeenschap</a><br>De jpg-bestanden van kunstwerken in het publieke domein zijn downloadbaar in hoge resolutie via de website van KMSKA. Beelden aanvragen kan via het contactformulier op <a href=\"https://kmska.be/nl/contact\">kmska.be/nl/contact</a>.</p>"
+        }
+    ],
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "https://iiif.kmska.be/iiif/2/6/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "https://iiif.kmska.be/iiif/2/6/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": "6",
+                    "height": 15601,
+                    "width": 11659,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://iiif.kmska.be/iiif/2/6/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.kmska.be/c/iiif/2/public@6.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.kmska.be/c/iiif/2/public@6.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 15601,
+                                "width": 11659
+                            },
+                            "on": "https://iiif.kmska.be/iiif/2/6/canvas/1.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
