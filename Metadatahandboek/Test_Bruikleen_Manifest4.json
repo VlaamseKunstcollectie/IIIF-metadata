@@ -1,5 +1,7 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/2/context.json"],
     "@id": "https://iiif.kmska.be/iiif/2/9720/manifest.json",
     "@type": "sc:Manifest",
     "label": [
@@ -12,6 +14,31 @@
             "@value": "Aardappelrooister"
         }
     ],
+    "navDate": "2021-10-10T00:00:00Z",
+    "navPlace": {
+    "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/4",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/4",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "nl": [
+              "Aardappelrooister"
+            ]
+          }
+        },
+        "geometry": {
+        "coordinates": [
+          4.885143075661659,
+          52.35996547201546
+        ],
+        "type": "Point"
+      }
+      }
+    ]
+    },
     "metadata": [
         {
             "label": [
